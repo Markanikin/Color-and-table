@@ -1,0 +1,16 @@
+.pink {color: pink;}
+.greycol {color: grey;}
+.red {color: red;}
+.green {color: green;}
+.yellow {color: yellow;}
+.table {width: 100%;
+text-align: center;
+background-color: rgba(137, 43, 226, 0.461);
+color: aliceblue;
+border: 10px;
+border-color: black;}
+.table>:hover {color: rgb(0, 0, 0);}
+.table>:nth-child(2) {color: blueviolet;}
+.table>caption{cursor: pointer;}
+.table>caption>:first-child {color: bisque;}
+.table>caption>:visited {color: rgb(0, 0, 0);}
